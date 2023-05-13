@@ -105,7 +105,7 @@ int main()
         std::vector<std::string> finalNames;
 
         // Outputs the name of the relative
-        newFile << "Relative Name: " << names[z] << std::endl;
+        newFile << "Pokemon Name: " << names[z] << std::endl;
         
         // Loops through the names and then loops through the decendents
         //      Everyone who is a decendent of someone gets set to false in the isNeighbor unordered map
@@ -140,7 +140,7 @@ int main()
         }
 
         // Tells the user the list of the ancestors
-        newFile << "List of ancestors" <<std::endl;
+        newFile << "List of ancestors:" <<std::endl;
         
         // Puts the finalMap names into the finalNames vector
         for (auto a: finalMap)
