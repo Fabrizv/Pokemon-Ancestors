@@ -1,0 +1,283 @@
+Relative Name: All other Pokemon
+List of ancestors
+Arceus
+Mew
+
+Relative Name: Arceus
+List of ancestors
+None
+
+Relative Name: Articuno
+List of ancestors
+Arceus
+Dialga
+Giratina
+Kyogre
+Luiga
+Palkia
+The Earth
+The Universe
+
+Relative Name: Azelf
+List of ancestors
+Arceus
+
+Relative Name: Celebi
+List of ancestors
+Arceus
+Dialga
+
+Relative Name: Cresselia
+List of ancestors
+Arceus
+
+Relative Name: Darkrai
+List of ancestors
+Arceus
+
+Relative Name: Dialga
+List of ancestors
+Arceus
+
+Relative Name: Entei
+List of ancestors
+Arceus
+Dialga
+Giratina
+Ho-Oh
+Palkia
+Rayquaza
+The Earth
+The Universe
+
+Relative Name: Giratina
+List of ancestors
+Arceus
+
+Relative Name: Groudon
+List of ancestors
+Arceus
+Dialga
+Giratina
+Palkia
+The Earth
+The Universe
+
+Relative Name: Ho-Oh
+List of ancestors
+Arceus
+Dialga
+Giratina
+Palkia
+Rayquaza
+The Earth
+The Universe
+
+Relative Name: Humans
+List of ancestors
+Arceus
+Cresselia
+Darkrai
+Latias
+Latios
+
+Relative Name: Jirachi
+List of ancestors
+Arceus
+Azelf
+Mesprit
+Uxie
+
+Relative Name: Kyogre
+List of ancestors
+Arceus
+Dialga
+Giratina
+Palkia
+The Earth
+The Universe
+
+Relative Name: Kyurem
+List of ancestors
+Arceus
+Giratina
+
+Relative Name: Latias
+List of ancestors
+Arceus
+
+Relative Name: Latios
+List of ancestors
+Arceus
+
+Relative Name: Luiga
+List of ancestors
+Arceus
+Dialga
+Giratina
+Kyogre
+Palkia
+The Earth
+The Universe
+
+Relative Name: Mesprit
+List of ancestors
+Arceus
+
+Relative Name: Mew
+List of ancestors
+Arceus
+
+Relative Name: Mewtwo 
+List of ancestors
+Arceus
+Cresselia
+Darkrai
+Humans
+Latias
+Latios
+
+Relative Name: Moltres
+List of ancestors
+Arceus
+Dialga
+Giratina
+Kyogre
+Luiga
+Palkia
+The Earth
+The Universe
+
+Relative Name: Palkia
+List of ancestors
+Arceus
+
+Relative Name: Raikon
+List of ancestors
+Arceus
+Dialga
+Giratina
+Ho-Oh
+Palkia
+Rayquaza
+The Earth
+The Universe
+
+Relative Name: Rayquaza
+List of ancestors
+Arceus
+Dialga
+Giratina
+Palkia
+The Earth
+The Universe
+
+Relative Name: Regice
+List of ancestors
+Arceus
+Dialga
+Giratina
+Groudon
+Palkia
+Regigigas
+The Earth
+The Universe
+
+Relative Name: Regigigas
+List of ancestors
+Arceus
+Dialga
+Giratina
+Groudon
+Palkia
+The Earth
+The Universe
+
+Relative Name: Regirock
+List of ancestors
+Arceus
+Dialga
+Giratina
+Groudon
+Palkia
+Regigigas
+The Earth
+The Universe
+
+Relative Name: Registeel
+List of ancestors
+Arceus
+Dialga
+Giratina
+Groudon
+Palkia
+Regigigas
+The Earth
+The Universe
+
+Relative Name: Reshiram
+List of ancestors
+Arceus
+Giratina
+
+Relative Name: Suicune
+List of ancestors
+Arceus
+Dialga
+Giratina
+Ho-Oh
+Palkia
+Rayquaza
+The Earth
+The Universe
+
+Relative Name: The Earth
+List of ancestors
+Arceus
+Dialga
+Giratina
+Palkia
+The Universe
+
+Relative Name: The Universe
+List of ancestors
+Arceus
+Dialga
+Giratina
+Palkia
+
+Relative Name: Uxie
+List of ancestors
+Arceus
+
+Relative Name: Xerneas
+List of ancestors
+Arceus
+Dialga
+
+Relative Name: Yveltal
+List of ancestors
+Arceus
+Dialga
+
+Relative Name: Zapdos
+List of ancestors
+Arceus
+Dialga
+Giratina
+Kyogre
+Luiga
+Palkia
+The Earth
+The Universe
+
+Relative Name: Zekrom
+List of ancestors
+Arceus
+Giratina
+
+Relative Name: Zygarde
+List of ancestors
+Arceus
+Dialga
+

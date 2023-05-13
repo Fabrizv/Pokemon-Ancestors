@@ -1,0 +1,46 @@
+Arceus -> Mew
+Arceus -> Mesprit
+Arceus -> Uxie
+Arceus -> Azelf
+Mesprit -> Jirachi
+Uxie -> Jirachi
+Azelf -> Jirachi
+Mew -> All other Pokemon
+Arceus -> Dialga
+Arceus -> Palkia
+Arceus -> Giratina
+Dialga -> Yveltal
+Dialga -> Xerneas
+Dialga -> Zygarde
+Dialga -> Celebi
+Dialga -> The Universe
+Palkia -> The Universe
+Giratina -> The Universe
+The Universe -> The Earth
+The Earth -> Kyogre
+The Earth -> Rayquaza
+The Earth -> Groudon
+Kyogre -> Luiga
+Luiga -> Moltres
+Luiga -> Zapdos
+Luiga -> Articuno
+Rayquaza -> Ho-Oh
+Ho-Oh -> Raikon
+Ho-Oh -> Entei
+Ho-Oh -> Suicune
+Groudon -> Regigigas
+Regigigas -> Regirock
+Regigigas -> Regice
+Regigigas -> Registeel
+Giratina -> Zekrom
+Giratina -> Reshiram
+Giratina -> Kyurem
+Arceus -> Latios
+Arceus -> Latias
+Arceus -> Cresselia
+Arceus -> Darkrai
+Latias -> Humans
+Latios -> Humans
+Cresselia -> Humans
+Darkrai -> Humans
+Humans -> Mewtwo 
